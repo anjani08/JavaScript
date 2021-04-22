@@ -1,0 +1,30 @@
+#wrapper{
+	margin:auto;
+	width:450px;
+	background-color:darkseagreen;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	padding-top: 30px;
+	padding-right: 65px;
+	border-radius: 25px;
+	text-align: center;
+	font-family: helvetica;
+}
+
+#title{
+	color:darkblue;
+	font-size:25px;
+}
+
+#subt, #newBtn{
+	background-color: lightcyan;
+	color: black;
+	padding:10px 10px;
+	padding-right: 4px;
+	cursor: pointer;
+	margin: auto;
+	border-color:black;
+	border-radius: 10px;
+
+
+}
